@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l $(which dp)
+ls -l $(which dp) PATH
