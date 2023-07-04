@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l $(which dp) PATH
+echo $(ls | wc -l) PATH
