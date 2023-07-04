@@ -1,2 +1,2 @@
 #!/bin/bash
-sort users | ls cd ~
+cut -f home /etc/passwd
