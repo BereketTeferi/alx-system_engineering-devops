@@ -1,2 +1,2 @@
 #!/bin/bash
-echo grep -i "oo" 
+sort | grep -i "oo" 
